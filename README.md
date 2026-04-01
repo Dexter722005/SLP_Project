@@ -219,7 +219,9 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-* Name: *Your Name*
+* Name:
+* Shreshth Panda 23BAI1155
+* <br>Akshat Jain 23BAI1205<br>Adibhatla Sai Prashanth 23BAI1250
 * Course: Speech and Language Processing (SLP)
 * Project Type: Multimodal AI
 
